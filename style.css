@@ -438,7 +438,12 @@ h4 {
   opacity: 1;
 }
 
-.testimonial {
+.dots__dot--active {
+  opacity: 1;
+  background-color: #fff;
+}
+
+.dots__ .testimonial {
   width: 65%;
   position: relative;
 }
